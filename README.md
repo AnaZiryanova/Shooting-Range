@@ -1,3 +1,3 @@
 # Shooting Range
-**Запускать** из *Shooting Range/bin/Release*.  
-**Файл** настроек (input.txt) в *Shooting Range/*.
+**Run** from *Shooting Range/bin/Release*.  
+**Settings** file (input.txt) in *Shooting Range/*.
